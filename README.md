@@ -1,7 +1,7 @@
 # YSU_ASDS_thesis
-Exploratory Analysis of Learned Representations by Self-Supervised Learning in Computer Vision
+"Exploratory Analysis of Learned Representations by Self-Supervised Learning in Computer Vision"
 
-STRUCTURE
+#STRUCTURE
 The project is structured into different files for clarity and maintainability:
 
 dataset.py: Contains functions to load and preprocess the datasets.     
